@@ -1,0 +1,18 @@
+﻿  main.cpp
+d:\opengl\startingcode-tp2\myproj\helperfunctions.h(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: voir la déclaration de 'fopen'
+d:\opengl\startingcode-tp2\myproj\helperfunctions.h(75): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: voir la déclaration de 'sscanf'
+d:\opengl\startingcode-tp2\myproj\helperfunctions.h(80): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: voir la déclaration de 'sscanf'
+d:\opengl\startingcode-tp2\myproj\helperfunctions.h(111): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: voir la déclaration de 'fopen'
+d:\opengl\startingcode-tp2\myproj\helperfunctions.h(130): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: voir la déclaration de 'sscanf'
+d:\opengl\startingcode-tp2\myproj\helperfunctions.h(135): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: voir la déclaration de 'sscanf'
+d:\opengl\startingcode-tp2\myproj\myobject3d.h(238): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+d:\opengl\startingcode-tp2\myproj\mylight.h(54): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+d:\opengl\startingcode-tp2\myproj\main.cpp(357): warning C4101: 'test' : variable locale non référencée
+  myproj.vcxproj -> D:\openGL\startingcode-tp2\Debug\myproj.exe
+  myproj.vcxproj -> D:\openGL\startingcode-tp2\Debug\myproj.pdb (Full PDB)
